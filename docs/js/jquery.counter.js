@@ -7,7 +7,7 @@
             time: 10,
             step: 1000,
             callback: function() { }
-        }
+        };
         var options = $.extend(defaults, options);
         var _this = $(this);
         // The actual function that does the counting
