@@ -37,6 +37,8 @@ This website .....
 # User Integration Design
 
 The design 
+![GitHub Logo](/design_images/logo.png)
+Format: ![First design](url)
 
 # Questions
 
