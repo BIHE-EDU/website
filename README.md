@@ -7,7 +7,7 @@ BIHE public website
 | Target Release    |                               |
 | Epic              |                               |
 | Document Status   |     DRAFT                     |
-| Document Owner    |     @tonyfaustini@yahoo.com                     |
+| Document Owner    |     @tonyfaustini                     |
 | Related Issues    |     Title                     |
 | Designer          |     @tonyfaustini@yahoo.com                    |
 | Developer         |     @tonyfaustini@yahoo.com                     |
