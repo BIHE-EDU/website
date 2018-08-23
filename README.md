@@ -17,12 +17,11 @@
 
 # Background and Strategic fit
 
-This website .....
+This enables a more flexible approach to managing the bihe website.
 
 # Assumptions
 
-* Item 1
-* Item 2
+* No dynamic content to be used on this website only static web pages
 
 # Requirements
 
