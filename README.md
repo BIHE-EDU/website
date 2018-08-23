@@ -6,17 +6,16 @@ BIHE public website
 | ------------------| ----------------------------- |
 | Target Release    |                               |
 | Epic              |                               |
-| Document Status   |     DRAFT                     |
-| Document Owner    |     @tonyfaustini                     |
-| Related Issues    |     Title                     |
+| Document Status   |     `DRAFT`                     |
+| Document Owner    |     @tonyfaustini@yahoo.com                     |
+| Related Issues    |     #1                   |
 | Designer          |     @tonyfaustini@yahoo.com                    |
 | Developer         |     @tonyfaustini@yahoo.com                     |
 | QA                |     @tonyfaustini@yahoo.com                     |
 
 # Goal
 
-* Item 1
-* Item 2
+* Create a modernized version of the original BIHE website www.bihe.org
 
 # Background and Strategic fit
 
@@ -37,8 +36,8 @@ This website .....
 # User Integration Design
 
 The design 
-![GitHub Logo](/design_images/favicon.png)
-Format: ![First design](url)
+![favicon.png design](/design_images/favicon.png)
+Format: ![png](url)
 
 # Questions
 
