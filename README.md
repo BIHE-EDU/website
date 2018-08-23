@@ -6,7 +6,7 @@
 | Epic              |                               |
 | Document Status   |     `DRAFT`                   |
 | Document Owner    |     @tonyfaustini@yahoo.com   |
-| Related Issues    |     #1                        |
+| Related Issues    |     BIHE website #2                        |
 | Designer          |     @tonyfaustini@yahoo.com   |
 | Developer         |     @tonyfaustini@yahoo.com   |
 | QA                |     @tonyfaustini@yahoo.com   |
