@@ -1,17 +1,15 @@
-# website
-BIHE public website
-
+# BIHE Public Website
 
 |      Title        |   User Story                  |
 | ------------------| ----------------------------- |
 | Target Release    |                               |
 | Epic              |                               |
-| Document Status   |     `DRAFT`                     |
-| Document Owner    |     @tonyfaustini@yahoo.com                     |
-| Related Issues    |     #1                   |
-| Designer          |     @tonyfaustini@yahoo.com                    |
-| Developer         |     @tonyfaustini@yahoo.com                     |
-| QA                |     @tonyfaustini@yahoo.com                     |
+| Document Status   |     `DRAFT`                   |
+| Document Owner    |     @tonyfaustini@yahoo.com   |
+| Related Issues    |     #1                        |
+| Designer          |     @tonyfaustini@yahoo.com   |
+| Developer         |     @tonyfaustini@yahoo.com   |
+| QA                |     @tonyfaustini@yahoo.com   |
 
 # Goal
 
@@ -30,18 +28,17 @@ This website .....
 
 |   |     Title               |   User Story                  |   Importance           |      Notes               |
 | - | ----------------------- | ----------------------------- | ---------------------- | ------------------------ |
-| 1 | This is a very important story| As a user I would like to be able to understand what BIHE is and how I can participate                   | Must have           |  This is an amazing tool            |
-| 2 | Content Cell            | Content Cell                  | Content Cell           |  Content Cell            |
+| 1 | Moderenize bihe.org | As a user I want to access bihe.org on large screens, tablets and mobile mobile phones                   | Must have           |            |
+| 2 | Must reflect the original content of bihe.org            | As a users I want to access the same content that I could in the original bihe.org site                  | Must have           |              |
 
 # User Integration Design
 
-The design 
-![favicon.png design](/design_images/favicon.png)
-Format: ![png](url)
+The following icon will be used as the favicon that will appear on each browser page tab associate with BIHE 
+![favicon design](/design_images/favicon.png) Format: [png]
 
 # Questions
 
-|      Question      |   Outcome                  |
-| -------------------| ---------------------------|
-| How can edit this? |                            |
+|      Question                           |   Outcome                                 |
+| ----------------------------------------| ------------------------------------------|
+|                                         |                                           |
 
