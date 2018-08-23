@@ -5,7 +5,7 @@
 | Version           |     2.0                       |
 | Document Status   |     `DRAFT`                   |
 | Document Owner    |     @info@bihe.org            |
-| Related Issues    |     BIHE website #2           |
+| Related Issues    |     [#2](../../issues/2)      |
 | Designer          |     @tonyfaustini@yahoo.com   |
 | Developer         |     @tonyfaustini@yahoo.com   |
 | QA                |     @tonyfaustini@yahoo.com   |
