@@ -2,11 +2,10 @@
 
 |      Title        |   User Story                  |
 | ------------------| ----------------------------- |
-| Target Release    |                               |
-| Epic              |                               |
+| Version           |     2.0                       |
 | Document Status   |     `DRAFT`                   |
-| Document Owner    |     @tonyfaustini@yahoo.com   |
-| Related Issues    |     BIHE website #2                        |
+| Document Owner    |     @info@bihe.org            |
+| Related Issues    |     BIHE website #2           |
 | Designer          |     @tonyfaustini@yahoo.com   |
 | Developer         |     @tonyfaustini@yahoo.com   |
 | QA                |     @tonyfaustini@yahoo.com   |
