@@ -26,13 +26,11 @@ This enables a more flexible approach to managing the bihe website.
 
 |   |     Title               |   User Story                  |   Importance           |      Notes               |
 | - | ----------------------- | ----------------------------- | ---------------------- | ------------------------ |
-| 1 | Moderenize bihe.org | As a user I want to access bihe.org on large screens, tablets and mobile mobile phones                   | Must have           |            |
-| 2 | Must reflect the original content of bihe.org            | As a users I want to access the same content that I could in the original bihe.org site                  | Must have           |              |
+| 1 | Moderenize bihe.org | As an organization we want to access bihe.org on large screens, tablets and mobile mobile phones                   | Must have           |            |
+| 2 | Must reflect the original content of bihe.org            | As an organization we want to access the same content that as the original bihe.org site                  | Must have           |              |
+| 3 | Maintainability of bihe.org            | As an organization we can to be able to maintain and improve the bihe.org website                 | Must have           |              |
 
 # User Integration Design
-
-The following icon will be used as the favicon that will appear on each browser page tab associate with BIHE 
-![favicon design](/design_images/favicon.png) Format: [png]
 
 # Questions
 
